@@ -11,8 +11,8 @@
 }
 
 .divider {
-  background: url(http://lorempixel.com/1920/500/cats);
-  background-size: contain;
+  background: url(http://lorempixel.com/1920/600/cats);
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
