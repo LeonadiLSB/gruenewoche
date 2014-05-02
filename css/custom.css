@@ -23,3 +23,21 @@
 .container.section {
   margin-bottom: 60px;
 }
+
+#d-top {
+  background-image: url(../img/fields2.jpg);
+}
+
+#d-problems {
+  background-image: url(../img/turkeys.jpg);
+}
+
+.gray {
+  background: #eee;
+}
+
+#footer {
+  margin-bottom: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
