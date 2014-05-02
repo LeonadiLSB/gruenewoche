@@ -24,12 +24,20 @@
   margin-bottom: 60px;
 }
 
+.row.section {
+  margin-bottom: 30px;
+}
+
 #d-top {
   background-image: url(../img/fields2.jpg);
 }
 
 #d-problems {
   background-image: url(../img/turkeys.jpg);
+}
+
+#d-contribute {
+  background-image: url(../img/plate.jpg);
 }
 
 .gray {
@@ -40,4 +48,12 @@
   margin-bottom: 0;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+#title-location {
+ margin-left: 30px;
+}
+
+#title-date {
+ margin-right: 30px;
 }
