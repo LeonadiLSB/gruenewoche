@@ -1,16 +1,10 @@
 {
-  "name": "GrueneWoche",
-  "version": "0.0.0",
-  "main": "index.html",
-  "authors": [
-    "Leon Bentrup"
-  ],
-  "license": "MIT",
-  "homepage": "http://leon.leonadi.de/gruenewoche",
+  "name": "gruenewoche",
   "private": true,
   "dependencies": {
-    "jquery.stellar": "~0.6.2",
-    "bootstrap": "~3.1.1",
-    "purecss": "~0.4.2"
-  }
+    "bootstrap-sass-official": "~3.1.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.11.0"
+  },
+  "devDependencies": {}
 }
